@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Natural Language Processing"
-    "Deep Learning",
     "Artificial Intelligence",
+    "Natural Language Processing",
+    "Deep Learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -34,5 +34,5 @@ weight = 5
 +++
 
 # Biography
-
+I am Rutika Moharir, a final semester student pursuing Bachelor of Technology in Computer Science and Engineering at Indian Institute of Technology (Indian School of Mines) Dhanbad, India. As a part of my curriculum I have completed various courses of CSE like that of Artificial Intelligence, Data mining, Statistics and Probability, etc. I have a research inclination towards the field of Deep Learning and have also completed relevant projects such as Image classifiers, Text classifiers and Neural Style Transfer. I’m currently working on Recurrent Neural Networks for language modelling. In the summer of 2018, I interned in the IOT Division at Samsung R&D Institute, Bengaluru, India.
 
