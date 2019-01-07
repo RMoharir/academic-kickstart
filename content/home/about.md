@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Natural Language Processing"
+    "Deep Learning",
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+ ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "B.Tech in Computer Science and Engineering"
+  institution = "Indian Institute of Technology (ISM) Dhanbad"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Higher Secondary Education"
+  institution = "Narayana Vidyalayam,Nagpur"
+  year = 2014
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Secondary Education"
+  institution = "Center Point School,Nagpur"
   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am Rutika Moharir, a final semester student pursuing Bachelor of Technology in Computer Science and Engineering at Indian Institute of Technology (Indian School of Mines) Dhanbad, India. As a part of my curriculum I have completed various courses of CSE like that of Artificial Intelligence, Data mining, Statistics and Probability, etc. I have a research inclination towards the field of Deep Learning and have also completed relevant projects such as Image classifiers, Text classifiers and Neural Style Transfer. I’m currently working on Recurrent Neural Networks for language modelling. In the summer of 2018, I interned in the IOT Division at Samsung R&D Institute, Bengaluru, India.
