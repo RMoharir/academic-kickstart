@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "ABOUT ME"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,31 +52,27 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "RUTIKA MOHARIR"
+  role = ""
+  Final Semester
+  B.Tech Computer Science and Engineering
+  ""
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Indian Institute of Technology (ISM) Dhanbad", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
-  """
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  email = "rmoharir8396@gmail.com"
+  
+  phone = "+91 7295912008"
+  skype = "rmoharir8396"
+  
 
-  # Enter an optional link for booking appointments (e.g. calendly.com).
-  appointment_url = ""
+ 
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -116,13 +112,12 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "I am Rutika Moharir, a final semester student pursuing Bachelor of Technology in Computer Science and Engineering at Indian Institute of Technology (Indian School of Mines) Dhanbad, India. As a part of my curriculum I have completed various courses of CSE like that of Artificial Intelligence, Data mining, Statistics and Probability, etc. I have a research inclination towards the field of Deep Learning and have also completed relevant projects such as Image classifiers, Text classifiers and Neural Style Transfer. I’m currently working on Recurrent Neural Networks for language modelling. In the summer of 2018, I interned in the IOT Division at Samsung R&D Institute, Bengaluru, India."
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
 
-  # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -196,15 +191,15 @@ enableGitInfo = false
   #   The language can be edited below.
   #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
   #   translated.
-  publication_types = [
-    'Uncategorized',  # 0
-    'Conference paper',  # 1
-    'Journal article',  # 2
-    'Manuscript',  # 3
-    'Report',  # 4
-    'Book',  # 5
-    'Book section'  # 6
-  ]
+  #publication_types = [
+  #  'Uncategorized',  # 0
+  #  'Conference paper',  # 1
+  #  'Journal article',  # 2
+  #  'Manuscript',  # 3
+  #  'Report',  # 4
+  #   'Book',  # 5
+  #  'Book section'  # 6
+  #]
 
   # Configuration of talk pages.
   [params.talks]
@@ -263,17 +258,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+    link = "rmoharir8396@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
     link = "https://twitter.com/GeorgeCushen"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  #[[params.social]]
+  #  icon = "google-scholar"
+  # icon_pack = "ai"
+  # link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
@@ -306,24 +301,21 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+  name = "Blogs"
+  url = "#blogs"
+  weight = 4
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 3
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
