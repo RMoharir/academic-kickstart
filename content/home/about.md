@@ -13,7 +13,7 @@ weight = 5
     "Natural Language Processing"
     "Deep Learning",
     "Artificial Intelligence",
- ]
+  ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
