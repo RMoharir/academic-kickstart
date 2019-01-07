@@ -29,7 +29,7 @@ weight = 5
 [[education.courses]]
   course = "Secondary Education"
   institution = "Center Point School,Nagpur"
-  year = 2008
+  year = 2012
  
 +++
 
