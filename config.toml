@@ -9,7 +9,7 @@
 #baseurl = "/"
 
 # Title of your site
-title = "ABOUT ME"
+title = "About Me"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -260,10 +260,10 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "rmoharir8396@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
- # [[params.social]]
- #  icon = "twitter"
- #  icon_pack = "fab"
- #  link = "https://twitter.com/GeorgeCushen"
+  [[params.social]]
+   icon = "facebook"
+   icon_pack = "fab"
+   link = "https://www.facebook.com/rutikamoharir96"
 
   #[[params.social]]
   #  icon = "google-scholar"
@@ -273,7 +273,13 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/gcushen"
+    link = "https://github.com/RMoharir"
+    
+ 
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://in.linkedin.com/in/rutika-moharir-2011a0135"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -295,10 +301,10 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+#[[menu.main]]
+#  name = "Publications"
+# url = "#publications_selected"
+# weight = 2
 
 [[menu.main]]
   name = "Blogs"
@@ -321,7 +327,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "CV"
-    url = "files/Rutika_Resume_January_2019.pdf"
+    url = "files/Rutika Resume January 2019.pdf"
     weight = 6
 
 # Search.
